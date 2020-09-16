@@ -7,7 +7,7 @@
 I'm Vimiix, a backend developer from China🇨🇳.
 
 - 📫 How to reach me: i@vimiix.com or vimiix.py@gmail.com
-- 🌟 Pronouns: print("Practice makes perfect.")
+- 🌟 Motto: print("Practice makes perfect.")
 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=vimiix.vimiix&title=Page%20Views)
