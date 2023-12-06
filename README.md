@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
-**vimiix/vimiix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+My name is Vimiix, and I’m currently based in Xian, Shaanxi, China🇨🇳.
 
-I'm Vimiix, a backend developer from China🇨🇳.
+I’m a backend programmer with over 6 years of experience across various techniques, and I also love traveling.
 
-- 📫 reach me: i@vimiix.com or vimiix.py@gmail.com
+- 📫 reach me: i@vimiix.com
 - 🌟 print("Practice makes perfect.")
